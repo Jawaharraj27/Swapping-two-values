@@ -17,8 +17,22 @@ Assign the value in temporary variable to the first variable
 Print both the values it would be interchanged
 ### Step 6: 
 End the program
+-------------------
 ## PROGRAM:
+`````
+n1=float(input())
+n2=float(input())
+temp=n1
+n1=n2
+n2=temp
+print("Swapped values are:",n1,n2)
+`````
 
+
+##OUTPUT
+
+
+![Screenshot 2023-11-14 142133](https://github.com/Jawaharraj27/Swapping-two-values/assets/139842416/6308adf0-958f-4168-8467-43a4d0cc6ebb)
 
 
 ## RESULT:
